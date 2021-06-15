@@ -36,7 +36,7 @@ input[type="button"]{
 	font-size: 16px;
 	text-indent: 25px;
 	font-weight: 700;
-	background:#00A1D6 url(../img/liebiao/fangda.png) no-repeat 15px center;
+	background:#00A1D6 url(../../images/search/liebiao/fangda.png) no-repeat 15px center;
 }
 input[type="button"]:focus{
 	outline: none;
@@ -131,7 +131,7 @@ input[type="button"]:hover{
 	width: 18px;
 	height: 18px;
 	position: absolute;
-	background-image: url(../img/liebiao/tu1.png);
+	background-image: url(../../images/search/liebiao/tu1.png);
 	top: 20px;
 	right: 25px;
 	cursor: pointer;
@@ -140,13 +140,13 @@ input[type="button"]:hover{
 	width: 18px;
 	height: 18px;
 	position: absolute;
-	background-image: url(../img/liebiao/tu2.png);
+	background-image: url(../../images/search/liebiao/tu2.png);
 	top: 20px;
 	right: 0px;
 	cursor: pointer;
 }
 .liebiao .liebiao-2 .liebiao-2-tu-2:hover{
-	background-image: url(../img/liebiao/tu3.png);
+	background-image: url(../../images/search/liebiao/tu3.png);
 }
 .liebiao .liebiao-2 .shouqi{
 	display: block;
@@ -241,7 +241,7 @@ input[type="button"]:hover{
 	font-size: 12px;
 	margin: 0px 8px 12px 0px;
 	padding-left: 16px;
-	background: url(../img/liebiao/ti1.png) no-repeat 0px 2px;
+	background: url(../../images/search/liebiao/ti1.png) no-repeat 0px 2px;
 }
 .liebiao .lb-zhengwen li .lb-right{
 	width: 57px;
@@ -250,7 +250,7 @@ input[type="button"]:hover{
 	font-size: 12px;
 	margin: 0px 8px 12px 0px;
 	padding-left: 16px;
-	background: url(../img/liebiao/ti2.png) no-repeat 0px 2px;
+	background: url(../../images/search/liebiao/ti2.png) no-repeat 0px 2px;
 }
 .liebiao .lb-zhengwen li .lb-up{
 	display: inline-block;
@@ -259,7 +259,7 @@ input[type="button"]:hover{
 	color: #99A2AA;
 	font-size: 12px;
 	padding-left: 16px;
-	background: url(../img/liebiao/ti3.png) no-repeat 0px 2px;
+	background: url(../../images/search/liebiao/ti3.png) no-repeat 0px 2px;
 }
 .liebiao .lb-zhengwen li .lb-up:hover{
 	color: #00A1D6;

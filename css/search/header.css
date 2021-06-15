@@ -25,7 +25,7 @@ header{
 .hleft .logo{
 	width: 158px;
 	height: 58px;
-	background: url(../img/header/logo.png) no-repeat 22px 8px;
+	background: url(../../images/search/header/logo.png) no-repeat 22px 8px;
 }
 .hleft .logo a{
 	display: inline-block;
@@ -40,7 +40,7 @@ header{
 	font-size: 14px;
 	font-family: "微软雅黑";
 	margin-left:110px;
-	background: url(../img/header/jiantou.png) no-repeat 30px center;
+	background: url(../../images/search/header/jiantou.png) no-repeat 30px center;
 	transition: all 0.3s;
 	-webkit-transition: all 0.3s;
 }
@@ -293,7 +293,7 @@ header{
 	border-radius: 33px;
 	position: absolute;
 	top: 0px;
-	background: rgba(0,0,0,0.5) url(../img/header/yuan.png) no-repeat 10px center;
+	background: rgba(0,0,0,0.5) url(../../images/search/header/yuan.png) no-repeat 10px center;
 	color: #FFFFFF;
 	line-height: 66px;
 	text-indent: 12px;
@@ -464,7 +464,7 @@ header{
 .hleft ul .xiazai .xiazaiapp{
 	width: 200px;
 	height: 200px;
-	background: url(../img/header/app-download.png) no-repeat;
+	background: url(../../images/search/header/app-download.png) no-repeat;
 	background-size: cover;
 	position: absolute;
 	top: 58px;
@@ -696,7 +696,7 @@ header{
 	font-family: "微软雅黑";
 	margin: 7px 0px;
 	line-height: 44px;
-	background: url(../img/header/tt7.png) no-repeat 25px center;
+	background: url(../../images/search/header/tt7.png) no-repeat 25px center;
 	cursor: pointer;
 }
 .hright .tou .tou-1 .tdiv-4:hover{
@@ -762,7 +762,7 @@ header{
 	color: #212121;
 	font-size: 14px;
 	font-family: "微软雅黑";
-	background: url(../img/header/tt8.png) no-repeat 25px center;
+	background: url(../../images/search/header/tt8.png) no-repeat 25px center;
 	cursor: pointer;
 }
 .hright .tou .tou-1 .tdiv-5 .tdiv-5-1:hover{
@@ -1193,7 +1193,7 @@ header{
 	font-size: 14px;
 	font-family: "微软雅黑";
 	color: #00A1D6;
-	background: url(../img/header/bofang.png) no-repeat 42px 16px;
+	background: url(../../images/search/header/bofang.png) no-repeat 42px 16px;
 	cursor: pointer;
 }
 .hright .rul .shoucang .shoucang-1 .shoucang-1-right .scr-xia .scr-xia-right:hover{
